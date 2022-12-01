@@ -1,4 +1,4 @@
-# explorer-hat-music-
+# explorer-hat-music
 Play music on a buzzer on your Explore Hat.
 
 ## Description
