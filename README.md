@@ -1,5 +1,5 @@
 # explorer-hat-music
-Play music on a buzzer on your Explore Hat.
+Play music on a buzzer on your Explorer Hat.
 
 ## Description
 Play over 2.9 million songs available on onlinesequencer.net on a single buzzer on your Explorer Hat!
@@ -8,6 +8,12 @@ Multiple notes can be played at the same time by turning chords into very fast a
 Works best with simple songs (1—3 notes at a time). You can tell a song is too complex by adding green, yellow, and red LEDs, and then seeing whether the red LED lights up constantly throughout the song.
 
 Made for a school project.
+
+## Example
+(Obligatory) Bad Apple: https://youtu.be/OS8dETCLiVI
+Yoru ni Kakeru: https://youtu.be/y2tyLgAHzRs
+Super Mario Brothers Theme Song: https://youtube.com/shorts/2k3WRzwtc_4?feature=share
+Katyusha: https://youtu.be/TSvroSVkahA
 
 ## Usage
 1. Install Python 3.9 from https://www.python.org/downloads/release/python-390/
